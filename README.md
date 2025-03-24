@@ -15,3 +15,6 @@ To fetch data from `https://api.example.com/data`, use:
 
 > [!NOTE]  
 > This is a basic proxy and may not handle all complex scenarios. Therefore many sites may not render all assets properly, and many features will NOT work!
+
+> [!IMPORTANT]  
+> The basic HTTP login has credentials HARD-CODED into the app! For increased security, please use environment variables.
